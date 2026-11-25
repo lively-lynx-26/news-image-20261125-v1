@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261125/lively-lynx-26/news-image-20261125-v1/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/lively-lynx-26/news-image-20261125-v1/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-Bounty: https://make.fun/bounty/news-image-20261125
+Bounty: [make.fun/bounty/news-image-20261125](https://make.fun/bounty/news-image-20261125)
 
 Wednesday 25 November 2026, summed up on one page: a newspaper front
 page with 35 dated stories from Wednesday 25 November 2026, drawn
